@@ -30,7 +30,7 @@
     "grunt-version": "^0.3.0",
     "jit-grunt": "^0.7.0",
     "load-grunt-config": ">= 0.8.0",
-    "lodash": "^2.4.1",
+    "lodash": "^4.17.19",
     "shelljs": "^0.3.0",
     "time-grunt": "^0.3.1"
   }
